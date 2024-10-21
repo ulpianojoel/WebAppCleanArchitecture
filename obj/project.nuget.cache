@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "IyD2HiHeO/I=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\WebAppCleanArchitecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.Authentication.Cookies con la versión (>= 8.0.0)\r\n  - Versiones encontradas en nuget.org: 31 [ versión más cercana: 2.2.0 ]\r\n  - Versiones encontradas en Microsoft Visual Studio Offline Packages: 0\r\n  - Versiones encontradas en C:\\Program Files\\dotnet\\library-packs: 0",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Cookies",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.Mvc con la versión (>= 8.0.0)\r\n  - Versiones encontradas en nuget.org: 37 [ versión más cercana: 2.2.0 ]\r\n  - Versiones encontradas en Microsoft Visual Studio Offline Packages: 0\r\n  - Versiones encontradas en C:\\Program Files\\dotnet\\library-packs: 0",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

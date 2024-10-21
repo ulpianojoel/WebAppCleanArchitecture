@@ -1,0 +1,8 @@
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.csproj.AssemblyReference.cache
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.AssemblyInfo.cs
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.RazorAssemblyInfo.cache
+C:\Users\Joel\source\repos\WebAppCleanArchitecture\obj\Debug\net8.0\WebAppCleanArchitecture.RazorAssemblyInfo.cs

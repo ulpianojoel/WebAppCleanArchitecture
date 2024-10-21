@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|c:\\users\\joel\\source\\repos\\webappcleanarchitecture\\webappcleanarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|solutionrelative:webappcleanarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|c:\\users\\joel\\source\\repos\\webappcleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|c:\\users\\joel\\source\\repos\\webappcleanarchitecture\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|c:\\users\\joel\\source\\repos\\webappcleanarchitecture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|c:\\users\\joel\\source\\repos\\webappcleanarchitecture\\controllers\\escanercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|solutionrelative:controllers\\escanercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|c:\\users\\joel\\source\\repos\\webappcleanarchitecture\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476535E4-4EF3-4655-ACC4-214F4313B4EC}|WebAppCleanArchitecture.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:24:59.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:15:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EscanerController.cs",
+              "DocumentMoniker": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\EscanerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EscanerController.cs",
+              "ToolTip": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\EscanerController.cs",
+              "RelativeToolTip": "Controllers\\EscanerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:54:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:53:39.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sdk.Razor.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets",
+              "ViewState": "AgIAAO0BAAAAAAAAAAArwMABAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-20T23:43:12.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAppCleanArchitecture.csproj",
+              "DocumentMoniker": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\WebAppCleanArchitecture.csproj",
+              "RelativeDocumentMoniker": "WebAppCleanArchitecture.csproj",
+              "ToolTip": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\WebAppCleanArchitecture.csproj",
+              "RelativeToolTip": "WebAppCleanArchitecture.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T23:41:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Joel\\source\\repos\\WebAppCleanArchitecture\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:53:57.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

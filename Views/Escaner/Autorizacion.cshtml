@@ -1,0 +1,15 @@
+@model EscanerViewModel
+
+<h2>Autorización de Escáneres</h2>
+
+@foreach (var escaner in Model.Escaneres)
+{
+    <div>
+        <span>@escaner.Nombre</span>
+        <span>Estado: @(escaner.Activo ? "Activo" : "Inactivo")</span>
+        <form asp-action="CambiarEstadoEscaner" method="post">
+            <input type="hidden" name="id" value="@escaner.Id" />
+            <button type="submit">@((escaner.Activo ? "Desactivar" : "Activar"))</button>
+        </form>
+    </div>
+}

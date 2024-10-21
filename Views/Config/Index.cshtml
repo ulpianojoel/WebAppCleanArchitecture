@@ -1,0 +1,19 @@
+@model ConfigViewModel
+
+<h2>Configuración del Sistema</h2>
+
+<form asp-action="GuardarConfig" method="post">
+    <label>Nombre del sistema:</label>
+    <input type="text" asp-for="NombreSistema" />
+
+    <label>Modo de Operación:</label>
+    <select asp-for="ModoOperacion">
+        <option value="Producción">Producción</option>
+        <option value="Prueba">Prueba</option>
+    </select>
+
+    <label>Habilitar escáner:</label>
+    <input type="checkbox" asp-for="HabilitarEscaner" />
+
+    <button type="submit">Guardar</button>
+</form>
